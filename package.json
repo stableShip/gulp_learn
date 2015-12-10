@@ -1,0 +1,25 @@
+{
+  "name": "gulp_learn",
+  "version": "1.0.0",
+  "description": "gulp_learn",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stableShip/gulp_learn.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "JIE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stableShip/gulp_learn/issues"
+  },
+  "homepage": "https://github.com/stableShip/gulp_learn",
+  "dependencies": {
+    "gulp": "^3.9.0"
+  }
+}
